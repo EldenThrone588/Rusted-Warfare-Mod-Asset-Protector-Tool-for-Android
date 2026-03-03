@@ -32,7 +32,7 @@ Protect your hours of hard work from thieves with a single tap.
 
 As a result:
 *   ✅ **The game loads the mod perfectly.**
-*   ❌ **Extractors get garbage.** (Images are broken, audio is silent, text files are gibberish).
+*   ❌ **Extractors get broken files.**
 *   ✅ **Proven on Android 15** – Passes the strictest ZIP parser with zero errors.
 
 ### ⚙️ Protection Modes
