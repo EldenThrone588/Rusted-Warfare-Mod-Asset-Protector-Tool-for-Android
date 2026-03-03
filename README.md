@@ -1,10 +1,12 @@
 # Rusted-Warfare-Mod-Asset-Protector-Tool___Android
 RW Mod Protector Tool is a tool which can help you *PROTECT* your mod assets. This is built for Android. Smooth and simple GUI for the modders. Your welcome here Rusted Warfare Modders!
 
+# **Formerly known as RW Encryptor Tool, now improved RW Mod Protector Tool made by Smallbutbigsizeofbug**
+
 [![Downloads](https://github.com/EldenThrone588/Rusted-Warfare-Mod-Asset-Protector-Tool___Android/releases/tag/1.2.51)]([https://github.com/EldenThrone588/Rusted-Warfare-Mod-Asset-Protector-Tool___Android/releases/tag/1.2.51])
 [![Itch.io](https://img.shields.io/badge/Download-Itch.io-FF2442)](https://smallbutbigsizeofbug.itch.io/androidrusted-warfare-encryptor-tool)
 
-**The most advanced, unbreakable mod protection tool for Rusted Warfare on Android.**  
+**The most advanced and customizable mod protection tool for Rusted Warfare on Android.**  
 Protect your hours of hard work from thieves with a single tap.
 
 [➡️ **Download Latest APK (v1.2.51)**](DOWNLOAD/RW_Protector_V1.2.51.apk)  
@@ -42,9 +44,10 @@ As a result:
 | **Images Only** | Images only (`.png`, `.jpg`) | Share code and music, protect only visuals. |
 
 ### 📥 Installation
-1.  Download the latest `.apk` file from the [Releases](https://github.com/YOUR_USERNAME/RW-Mod-Protector/releases) page or the [Itch.io](https://smallbutbigsizeofbug.itch.io/androidrusted-warfare-encryptor-tool) page.
+1.  Download the latest `.apk` file from the [Releases](https://github.com/EldenThrone588/Rusted-Warfare-Mod-Asset-Protector-Tool___Android/releases) page or the [Itch.io](https://smallbutbigsizeofbug.itch.io/androidrusted-warfare-encryptor-tool) page.
 2.  Allow installation from "Unknown Sources" on your Android device.
 3.  Open the app and follow the in-app tutorial.
+4.  This app only supports **Android 7.0+** currently from 1.2 version.
 
 ### 📜 Changelog
 **Version 1.2.51 (Latest)**
