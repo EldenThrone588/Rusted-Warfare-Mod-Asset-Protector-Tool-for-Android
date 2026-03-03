@@ -8,8 +8,7 @@ RW Mod Protector Tool is a tool which can help you *PROTECT* your mod assets. Th
 
 **The most advanced and customizable mod protection tool for Rusted Warfare on Android.**  
 Protect your hours of hard work from thieves with a single tap.
-
-[➡️ **Download Latest APK (v1.2.51)**](DOWNLOAD/RW_Protector_V1.2.51.apk)  
+ 
 [📱 **Itch.io Page**](https://smallbutbigsizeofbug.itch.io/androidrusted-warfare-encryptor-tool) | [💬 **Discord**](https://discord.gg/WKYHkd53Y6) | [▶️ **YouTube**](https://m.youtube.com/channel/UCQOOqunp5ixtLdrpd4JWLYw)
 
 ---
