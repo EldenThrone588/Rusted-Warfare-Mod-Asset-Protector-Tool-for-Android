@@ -69,3 +69,5 @@ As a result:
 
 ---
 **Made with ❤️ by smallbutbigsizeofbug**, **Uploaded by EldenThrone558(aka smallbutbig) in github.**
+
+**Disclaimer: This is community-made tool and is not officially affliated with Corroding Games, the creator of Rusted Warfare.**
