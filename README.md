@@ -65,7 +65,7 @@ As a result:
 
 ### 🙏 Acknowledgements
 *   Inspired by **Aironium Flod Protecc**.
-*   Developed with assistance from **Deepseek**.
+*   Developed with AI assistance from **Deepseek and Gemini AI**.
 
 ---
 **Made with ❤️ by smallbutbigsizeofbug**, **Uploaded by EldenThrone558(aka smallbutbig) in github.**
